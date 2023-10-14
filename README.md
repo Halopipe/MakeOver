@@ -40,3 +40,24 @@
 ```
 
 ### [[MakeOver]小游戏过审助手](https://store.cocos.com/app/detail/5337)
+
+*注意解包与解密不同, 如果解包失败, 应该先对包进行解密.*
+1. PC端: [解密工具](./wxapkg_decrypt_win.exe)
+```
+// -wxid 	微信Appid
+// -in		输入文件路径
+// -out	    输出文件路径
+.\decrypt.exe -wxid [wxAppid] -in [filePath] -out [savePath]
+```
+wxapkg包位置:
+```
+C:\Users\xxx\Documents\WeChat Files\Applet\wxbxxxxxxxxxxxxxxd0\xx
+```
+
+2. Mac端: (未加密)
+wxapkg包位置:
+```
+/Users/xxx/Library/Containers/com.tencent.xinWeChat/Data/.wxapplet/packages/wx18ded455ed95f695/15
+```
+
+3. Android端: (包含模拟器) 自行谷哥吧, 很多.
