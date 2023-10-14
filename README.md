@@ -44,10 +44,9 @@
 *注意解包与解密不同, 如果解包失败, 应该先对包进行解密.*
 1. PC端: [decrypt.exe](./decrypt.exe)
 ```
-// -wxid 	微信Appid
-// -in		输入文件路径
+// -wxid    微信Appid
+// -in      输入文件路径
 // -out     输出文件路径
-
 .\decrypt.exe -wxid [wxAppid] -in [filePath] -out [savePath]
 ```
 wxapkg包位置:
