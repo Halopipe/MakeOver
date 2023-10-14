@@ -39,4 +39,4 @@
     > .\mov-win-x64.exe upg wxd1234567890abcdef/25
 ```
 
-### [获取该工具](https://store.cocos.com/app/detail/5337)
+### [[MakeOver]小游戏过审助手](https://store.cocos.com/app/detail/5337)
