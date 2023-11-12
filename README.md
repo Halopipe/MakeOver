@@ -62,7 +62,7 @@
 ### [[MakeOver]小游戏过审助手](https://store.cocos.com/app/detail/5337)
 
 *注意解包与解密不同, 如果解包失败, 应该先对包进行解密.*
-1. PC端: [decrypt.exe](./wxapkg_decrypt_win.exe)
+1. PC端: [wxapkg_decrypt_win.exe](./wxapkg_decrypt_win.exe)
 ```
 // -wxid    微信Appid
 // -in      输入文件路径
