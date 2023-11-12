@@ -67,7 +67,7 @@
 // -wxid    微信Appid
 // -in      输入文件路径
 // -out     输出文件路径
-.\decrypt.exe -wxid [wxAppid] -in [filePath] -out [savePath]
+.\wxapkg_decrypt_win.exe -wxid [wxAppid] -in [filePath] -out [savePath]
 ```
 wxapkg包位置:
 ```
